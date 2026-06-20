@@ -11,7 +11,7 @@ class ChatbotCore:
         self.total_messages = 0
         self.knowledge_patterns = []
 
-        self.stop_words_list = [sss
+        self.stop_words_list = [ssss
             "i", "me", "my", "myself", "we", "our", "ours", "ourselves",
             "you", "your", "yours", "yourself", "yourselves", "he", "him",
             "his", "himself", "she", "her", "hers", "herself", "it", "its",
